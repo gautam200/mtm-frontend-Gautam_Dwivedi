@@ -6,6 +6,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+
+ You can run this application direclty from here:
+ https://mtm-frontend-gautam-dwivedi.vercel.app/
 ### `npm start`
 
 Runs the app in the development mode.\
